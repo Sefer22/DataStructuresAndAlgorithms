@@ -1,7 +1,4 @@
-package collections;
-
-import java.util.ArrayList;
-import java.util.LinkedList;
+package collections.List;
 
 public class List {
     public static void main(String[] args) {

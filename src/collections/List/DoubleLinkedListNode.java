@@ -1,4 +1,4 @@
-package collections;
+package collections.List;
 
 public class DoubleLinkedListNode {
     private DoubleLinkedListNode prev;
